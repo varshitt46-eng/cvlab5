@@ -105,6 +105,7 @@ These outputs allow visual comparison of the two slicing approaches.
 - Save processed images to files
 - Add a graphical user interface
 
-## Author
+## output
 
-Your Name
+<img width="1489" height="312" alt="cvlab5(27)" src="https://github.com/user-attachments/assets/61d9e830-a22a-4dd7-9820-9893f6c171ac" />
+
